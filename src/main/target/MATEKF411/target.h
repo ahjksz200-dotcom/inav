@@ -1,5 +1,5 @@
 #pragma once
-
+ 
 #define TARGET_BOARD_IDENTIFIER "F411"
  
 // --- LƯỢC BỎ TÍNH NĂNG ĐỂ GIẢM DUNG LƯỢNG FLASH ---
